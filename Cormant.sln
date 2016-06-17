@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cormant.Web", "Cormant.Web\Cormant.Web.csproj", "{5FE90009-C52C-4202-9CAD-069A2F7ADCB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cormant", "Cormant\Cormant.csproj", "{FBA4EADE-41E1-4BF7-8CC9-7D838FFE53B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cormant.Services", "Cormant.Services\Cormant.Services.csproj", "{97875C7E-C1FC-4BB8-8BF0-3129F3501B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cormant.NHibernate", "Cormant.NHibernate\Cormant.NHibernate.csproj", "{6E177261-A25A-42BD-81E7-E73F14F52529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE90009-C52C-4202-9CAD-069A2F7ADCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE90009-C52C-4202-9CAD-069A2F7ADCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE90009-C52C-4202-9CAD-069A2F7ADCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE90009-C52C-4202-9CAD-069A2F7ADCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA4EADE-41E1-4BF7-8CC9-7D838FFE53B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA4EADE-41E1-4BF7-8CC9-7D838FFE53B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA4EADE-41E1-4BF7-8CC9-7D838FFE53B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA4EADE-41E1-4BF7-8CC9-7D838FFE53B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97875C7E-C1FC-4BB8-8BF0-3129F3501B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97875C7E-C1FC-4BB8-8BF0-3129F3501B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97875C7E-C1FC-4BB8-8BF0-3129F3501B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97875C7E-C1FC-4BB8-8BF0-3129F3501B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E177261-A25A-42BD-81E7-E73F14F52529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E177261-A25A-42BD-81E7-E73F14F52529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E177261-A25A-42BD-81E7-E73F14F52529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E177261-A25A-42BD-81E7-E73F14F52529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

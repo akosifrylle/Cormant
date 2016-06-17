@@ -1,0 +1,9 @@
+C:\Users\fbancaso\Documents\Visual Studio 2015\Projects\Cormant\Cormant\bin\Debug\Cormant.dll
+C:\Users\fbancaso\Documents\Visual Studio 2015\Projects\Cormant\Cormant\bin\Debug\Cormant.pdb
+C:\Users\fbancaso\Documents\Visual Studio 2015\Projects\Cormant\Cormant\obj\Debug\Cormant.dll
+C:\Users\fbancaso\Documents\Visual Studio 2015\Projects\Cormant\Cormant\obj\Debug\Cormant.pdb
+D:\Cormant\Cormant\bin\Debug\Cormant.dll
+D:\Cormant\Cormant\bin\Debug\Cormant.pdb
+D:\Cormant\Cormant\obj\Debug\Cormant.csprojResolveAssemblyReference.cache
+D:\Cormant\Cormant\obj\Debug\Cormant.dll
+D:\Cormant\Cormant\obj\Debug\Cormant.pdb
