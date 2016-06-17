@@ -1,0 +1,203 @@
+src/DCE/ConfigAgent/obj/
+src/DCE/ConfigEditor/obj/
+src/DCE/Cormant.Controls.Web/obj/
+src/DCE/Cormant.Data/obj/
+src/DCE/Cormant.Dce.AE.UnitTests/obj/
+src/DCE/Cormant.Dce.Activities/obj/
+src/DCE/Cormant.Dce.Business/obj/
+src/DCE/Cormant.Dce.Framework.WebForms/obj/
+src/DCE/Cormant.Dce.Interface.Builders.Ias/obj/
+src/DCE/Cormant.Dce.Forms.Service/obj/
+src/DCE/Cormant.Dce.Framework.Core/obj/
+src/DCE/ConfigAgent/bin/
+src/DCE/Cormant.Controls.Web/bin/
+src/DCE/Cormant.Data/bin/
+src/DCE/Cormant.Dce.Activities/bin/
+src/DCE/Cormant.Dce.Framework.Core/bin/
+src/DCE/Cormant.Dce.Business/bin/
+src/DCE/Cormant.Dce.Framework.WebForms/bin/
+src/DCE/Cormant.Dce.Interface.Builders.ClearanceStatus/bin/
+src/DCE/Cormant.Dce.Forms.Service/bin/
+src/DCE/Cormant.Dce.FrontEnd.Presentation/bin/
+src/DCE/Cormant.Dce.FrontEnd.Presentation/obj/
+src/DCE/Cormant.Dce.Global/bin/
+src/DCE/Cormant.Dce.Global/obj/
+src/DCE/Cormant.Dce.Interface.Builders.ClearanceStatus/obj/
+src/DCE/Cormant.Dce.Interface.Builders.Ias/bin/
+src/DCE/Cormant.Dce.Interface.Builders/bin/
+src/DCE/ConfigEditor/bin/
+src/DCE/Cormant.Dce.Interface.Builders/obj/
+src/DCE/Cormant.Dce.Interface/bin/
+src/DCE/Cormant.Dce.Rules/bin/
+src/DCE/Cormant.Dce.AE.UnitTests/bin/
+src/DCE/Cormant.Dce.Interface/obj/
+src/DCE/Cormant.Dce.Rules/obj/
+src/DCE/Cormant.Dce.SG/bin/
+src/DCE/Cormant.Dce.SG/obj/
+src/DCE/Cormant.Dce.TH/bin/
+src/DCE/Cormant.Dce.US/bin/
+src/DCE/Cormant.Dce.TH/obj/
+src/DCE/Cormant.Dce.US/obj/
+src/DCE/Cormant.Dce.Workflows/bin/
+src/DCE/Cormant.Dce/bin/
+src/DCE/Cormant.Dce.Workflows/obj/
+src/DCE/Cormant.Dce/obj/
+src/DCE/Cormant.Mvvm/obj/
+src/DCE/Cormant.Mvvm/bin/
+src/DCE/DatabaseWizard/bin/
+src/DCE/Cormant.Util/bin/
+src/DCE/Cormant.Util/obj/
+src/DCE/DatabaseWizard/obj/
+src/DCE/Dce.MQ.Agent/bin/
+src/DCE/Dce.MQ.Agent/obj/
+src/DCE/Dce.MQ.FileTransfer/bin/
+src/DCE/Dce.MQ.FileTransfer/obj/
+src/DCE/Dce.MQ.Service/bin/
+src/DCE/Dce.MQ.Service/obj/
+src/DCE/Dce.MQ/bin/
+src/DCE/Dce.MQ/obj/
+src/DCE/ElcsService/bin/
+src/DCE/FormJobInvoker/bin/
+src/DCE/ElcsService/obj/
+src/DCE/FormJobInvoker/obj/
+src/DCE/MS Tests/Cormant.Dce.Tests/bin/
+src/DCE/MS Tests/Cormant.Dce.Tests/obj/
+src/DCE/ReportGeneration/bin/
+src/DCE/ReportGeneration/obj/
+src/DCE/ReportGenerator/bin/
+src/DCE/ReportGenerator/obj/
+src/DCE/Reports/Cormant.Dce.Reports.Global.CIAImage.Awb/bin/
+src/DCE/Reports/Cormant.Dce.Reports.Global.CIAImage.Awb/obj/
+src/DCE/Reports/Cormant.Dce.Reports.Global.CIAImage.Inv/bin/
+src/DCE/Reports/Cormant.Dce.Reports.Global.CIAImage.Inv/obj/
+src/DCE/Reports/Cormant.Dce.Reports.SG.Imports.BTS/bin/
+src/DCE/Reports/Cormant.Dce.Reports.SG.Imports.BTS/obj/
+src/DCE/Reports/Cormant.Dce.Reports.SG.Imports.Reconciliation/bin/
+src/DCE/Reports/Cormant.Dce.Reports.US.Exports.HAWBDiscrepancy/bin/
+src/DCE/Reports/Cormant.Dce.Reports.SG.Imports.Reconciliation/obj/
+src/DCE/Reports/Cormant.Dce.Reports.US.Exports.HAWBDiscrepancy/obj/
+src/DCE/Reports/Cormant.Dce.Reports.US.Exports.ITN/obj/
+src/DCE/Reports/Cormant.Dce.Reports.US.Exports.OtherShipment/bin/
+src/DCE/Reports/Cormant.Dce.Reports.US.Exports.OtherShipment/obj/
+src/DCE/Reports/Cormant.Dce.Reports.US.Exports.SelfFiler/bin/
+src/DCE/Reports/Cormant.Dce.Reports.US.Exports.SelfFiler/obj/
+src/DCE/Reports/Cormant.Dce.Reports.US.Imports.ImportActivity/bin/
+src/DCE/Reports/Cormant.Dce.Reports.US.Imports.ImportActivity/obj/
+src/DCE/Reports/Cormant.Dce.Reports.VN.Imports.CDF/bin/
+src/DCE/Reports/Cormant.Dce.Reports.VN.Imports.CDF/obj/
+src/DCE/Reports/CrystalReports/bin/
+src/DCE/Reports/CrystalReports/obj/
+src/DCE/ServerManager/bin/
+src/DCE/ServerManager/obj/
+src/DCE/ShipmentPurgeTool/bin/
+src/DCE/ShipmentPurgeTool/obj/
+src/DCE/Tests/Cormant.Dce.AE.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.AE.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.Business.US.Exports.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.Business.US.Exports.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.Business.US.Imports.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.Business.US.Imports.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.Business.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.Business.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.CL.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.CL.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.Interface.Builders.ClearanceStatus.Tests/bin/
+src/DCE/Tests/Cormant.Dce.Interface.Builders.ClearanceStatus.Tests/obj/
+src/DCE/Tests/Cormant.Dce.Interface.Builders.US.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.Interface.Builders.US.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.Interface.Tests/bin/
+src/DCE/Tests/Cormant.Dce.Interface.Tests/obj/
+src/DCE/Tests/Cormant.Dce.Interface.US.Exports.Tests/bin/
+src/DCE/Tests/Cormant.Dce.Interface.US.Exports.Tests/obj/
+src/DCE/Tests/Cormant.Dce.Interface.US.Imports.Tests/bin/
+src/DCE/Tests/Cormant.Dce.Interface.US.Imports.Tests/obj/
+src/DCE/Tests/Cormant.Dce.Reports.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.Reports.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.Rules.Tests/bin/
+src/DCE/Tests/Cormant.Dce.Rules.Tests/obj/
+src/DCE/Tests/Cormant.Dce.SG.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.SG.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.TH.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.TH.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.Tests/bin/
+src/DCE/Tests/Cormant.Dce.Tests/obj/
+src/DCE/Tests/Cormant.Dce.VN.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.VN.UnitTests/obj/
+src/DCE/Tests/Cormant.Dce.WebUI.Tests/bin/
+src/DCE/Tests/Cormant.Dce.WebUI.Tests/obj/
+src/DCE/Tests/Cormant.Dce.WindowsService.Tests/bin/
+src/DCE/Tests/Cormant.Dce.WindowsService.Tests/obj/
+src/DCE/Tests/Cormant.Dce.ZA.UnitTests/bin/
+src/DCE/Tests/Cormant.Dce.ZA.UnitTests/obj/
+src/DCE/Tests/Cormant.Util.Test/bin/
+src/DCE/Tests/Cormant.Util.Test/obj/
+src/DCE/Tests/Dce.MQ.Service.Test/bin/
+src/DCE/Tests/Dce.MQ.Service.Test/obj/
+src/DCE/Tests/FormTests/bin/
+src/DCE/Tests/FormTests/obj/
+src/DCE/Tests/WindowsService.TestClient/bin/
+src/DCE/Tests/WindowsService.TestClient/obj/
+src/DCE/UnicodeNormalizationTool/bin/
+src/DCE/UnicodeNormalizationTool/obj/
+src/DCE/WebService/bin/
+src/DCE/WebUI/bin/
+src/DCE/WebUI/obj/
+src/DCE/WindowsService/bin/
+src/DCE/WindowsService/obj/
+*.suo
+src/DCE/Reports/Cormant.Dce.Reports.US.Exports.ITN/bin/
+*.user
+src/DCE/packages/
+src/DCE/WebUI/logs/
+src/DCE/WebUI/Scripts/mvc-init.js
+src/DCE/ReportGeneration/logs/
+src/DCE/MS Tests/Cormant.Dce.Interface.Test/bin/
+src/DCE/MS Tests/Cormant.Dce.Interface.Test/obj/
+src/DCE/MS Tests/Cormant.Dce.Ruleset.Test/bin/
+src/DCE/MS Tests/Cormant.Dce.AE.UnitTests/obj/
+src/DCE/MS Tests/Cormant.Dce.AE.UnitTests/bin/
+src/DCE/MS Tests/Cormant.Dce.Ruleset.Test/obj/
+src/DCE/Installers/Database Wizard x86 Standalone Installer/obj/
+src/DCE/Installers/Database Wizard x86 Standalone Installer/bin/
+src/DCE/Installers/Database Wizard x64 Standalone Installer/bin/
+src/DCE/Installers/Database Wizard x64 Standalone Installer/obj/
+src/DCE/Installers/DCE Forms Service x64/bin/
+src/DCE/Installers/DCE Forms Service x64/obj/
+src/DCE/Installers/DCE Forms Service x86/bin/
+src/DCE/Installers/DCE Forms Service x86/obj/
+src/DCE/webui_publish/
+src/DCE/webservice_publish/
+src/DCE/Installers/DCE Web Service x64 Standalone Installer/bin/
+src/DCE/Installers/DCE Web Service x64 Standalone Installer/obj/
+src/DCE/Installers/DCE Web Service x86 Standalone Installer/obj/
+src/DCE/Installers/DCE Services x86 Standalone Installer/obj/
+src/DCE/Installers/DCE Services x86 Standalone Installer/bin/
+src/DCE/Installers/DCE Services x64 Standalone Installer/bin/
+src/DCE/Installers/DCE Services x64 Standalone Installer/obj/
+src/DCE/Installers/DCE Web Service x86 Standalone Installer/bin/
+src/DCE/Installers/DCE Website x86 Standalone Installer/obj/
+src/DCE/Installers/DCE Website x86 Standalone Installer/bin/
+src/DCE/Installers/DCE Website x64 Standalone Installer/obj/
+src/DCE/Installers/DCE Website x64 Standalone Installer/bin/
+src/DCE/reportspublished/
+src/DCE/Installers/ReportInstaller x64/bin/
+src/DCE/Installers/ReportInstaller x64/obj/
+src/DCE/Installers/DCEConfigEditorInstaller/obj/
+src/DCE/Installers/ReportInstaller x86/obj/
+src/DCE/Installers/DCEConfigEditorInstaller/bin/
+src/DCE/Installers/DCEConfigEditorInstaller Standalone Installer/obj/
+src/DCE/Installers/DCEConfigEditorInstaller Standalone Installer/bin/
+src/DCE/Installers/ReportInstaller x86/bin/
+src/DCE/WebService/obj/
+src/DCE/Reports/Cormant.Dce.Reports.Global.CIAImage.CombinedInvAndAwb/bin/
+src/DCE/Reports/Cormant.Dce.Reports.Global.CIAImage.CombinedInvAndAwb/obj/
+src/DCE/ReportGeneration/Templates/
+src/DCE/ReportGeneration/App_Data/Reports.xml
+**/bin/
+**/obj/
+src/DCE/ReportGeneration/Temp/
+src/DCE/Installers/Patch Installers/Reports Service/DCEReportsService_04.02.05.00_Patch.exe
+src/DCE/Installers/Patch Installers/Reports Website/DCEReportsWebsite_04.02.05.00_Patch.exe
+**/Installers/**/*.exe
+src/DCE/TestResults/
+src/DCE/.vs/config/applicationhost.config
