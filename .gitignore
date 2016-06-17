@@ -1,4 +1,4 @@
-src/DCE/packages/
+packages/
 Cormant.Web/bin/
 Cormant.Services/bin/
 Cormant.NHibernate/bin/
@@ -6,3 +6,4 @@ Cormant.Services/obj/
 Cormant.Web/obj/
 Cormant.NHibernate/obj/
 .vs/config/
+Cormant/obj/
