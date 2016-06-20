@@ -28,13 +28,25 @@ namespace Cormant.NHibernate.Dao
             }
         }
 
-        public void Save(Employee employee)
+        public Employee GetByEmailAndPassword(string email, string password)
         {
             using (var session = NHibernateHelper.OpenSession())
             {
-                session.BeginTransaction();
-                session.Save(employee);
-                session.Transaction.Commit();
+                return Mapper.Map<Employee>(session.QueryOver<EmployeeRepo>()
+                    .Where(e => e.Email == email && e.Password == password).SingleOrDefault());
+            }
+        }
+
+        public void Save(Employee employee)
+        {
+            if (employee != null)
+            {
+                using (var session = NHibernateHelper.OpenSession())
+                {
+                    session.BeginTransaction();
+                    session.Save(employee);
+                    session.Transaction.Commit();
+                }
             }
         }
     }

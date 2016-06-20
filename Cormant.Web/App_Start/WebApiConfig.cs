@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Routing;
 
 namespace Cormant.Web
 {
@@ -13,6 +15,16 @@ namespace Cormant.Web
 
             // Web API routes
             config.MapHttpAttributeRoutes();
+
+            config.Routes.MapHttpRoute("GetEmployees", "api/employee",
+                new {controller = "Employee", action = "GetEmployees"},
+                new {httpMethod = new HttpMethodConstraint(HttpMethod.Get)}
+                );
+
+            config.Routes.MapHttpRoute("Login", "api/employee/email={email},password={password}/",
+                new {controller = "Employee,", action = "Login"}, 
+                new {httpMethod = new HttpMethodConstraint(HttpMethod.Get)}
+                );
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
